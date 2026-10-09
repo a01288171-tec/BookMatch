@@ -1,0 +1,39 @@
+Title,Genre,Language,MinAge,MaxAge
+Little Red Riding Hood,Fantasy,English,2,7
+Percy Jackson,Fantasy,English,8,10
+Harry Potter,Fantasy,English,11,15
+The Hobbit,Fantasy,English,16,18
+Under the whispering Door,Fantasy,English,18,30
+Mistborn,Fantasy,English,31,100
+Los Tres Cerditos,Fantasy,Spanish,2,7
+La Historia Interminable,Fantasy,Spanish,8,10
+Narnia,Fantasy,Spanish,11,15
+La canción el Lobo,Fantasy,Spanish,16,18
+La Casa en el Mar Mas Azul,Fantasy,Spanish,18,30
+Dracula,Fantasy,Spanish,31,100
+The Nutcracker,Fiction,English,2,7
+The Little Prince,Fiction,English,8,10
+Aristotle and Dante discover the secrets of the universe,Fiction,English,11,15
+Pride and Prejudice,Fiction,English,16,18
+Farenheit 451,Fiction,English,18,30
+Dracula,Fiction,English,31,100
+Las brujas,Fiction,Spanish,2,7
+El Principito,Fiction,Spanish,8,10
+Invisible,Fiction,Spanish,11,15
+La canción el Aquiles,Fiction,Spanish,16,18
+Los siete maridos de Evelyn Hugo,Fiction,Spanish,18,30
+La Sombra del Viento,Fiction,Spanish,31,100
+Atomic Habits,Self-help,English,14,100
+Hábitos Atómicos,Self-help,Spanish,14,100
+Where the Wild Things Are,Adventure,English,2,7
+Treasure Island,Adventure,English,8,10
+Hatchet,Adventure,English,11,15
+The Call of the Wild,Adventure,English,16,18
+Life of Pi,Adventure,English,18,30
+The Count of Monte Cristo,Adventure,English,31,100
+Donde viven los monstruos,Adventure,Spanish,2,7
+Viaje al Centro de la Tierra,Adventure,Spanish,8,10
+La vuelta al mundo en ochenta días,Adventure,Spanish,11,15
+El Alquimista,Adventure,Spanish,16,18
+Los tres mosqueteros,Adventure,Spanish,18,30
+El Conde de Montecristo,Adventure,Spanish,31,100
