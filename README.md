@@ -16,4 +16,4 @@ When you hit start, 4 options will appear:
 A brief explanation of how the implemented features begin to address the identified problem or need: 
 It gives people an easier way to find books they may find interesting, allowing them to select their preferences. Filtering books into one option depending on what you previously selected.  
 
-Video link explaining the code: 
+Video link explaining the program: https://drive.google.com/file/d/1N4hDJkGjvO1qlfWsTGqotfXYa5eRwvr6/view?usp=drive_link
