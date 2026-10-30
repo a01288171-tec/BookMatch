@@ -3,7 +3,7 @@ Project description: A book recommendation system that matches users with ideal 
 
 How to run the code: 
 1. Install de PANDAS library.
-2. Download book.csv and bookmatch.py in the same folder.
+2. Download books.csv and bookmatch.py in the same folder.
 3. Now you can hit start.
 
 Implemented features:
